@@ -1,3 +1,5 @@
+[🇷🇺 Русская версия](README_RU.md)
+
 # RNode Flash and Configure Instructions
 
 This guide explains how to flash RNode firmware and configure an RNode device as a Reticulum interface using the **Columba** app on Android.
